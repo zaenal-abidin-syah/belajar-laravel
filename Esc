@@ -1,0 +1,23 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#4425
+    [34mall[39m: [
+      [34;4mApp\Models\Post[39;24m {#4680
+        [34mid[39m: [35m1[39m,
+        [34mtitle[39m: "[32mJudul Pertama[39m",
+        [34mexcerpt[39m: "[32mLorem ipsum dolor sit amet consectetur adipisicing elit. Itaque molestiae dolore eaque animi repudiandae consectetur illo[39m",
+        [34mbody[39m: "[32mLorem ipsum dolor sit amet consectetur adipisicing elit. Itaque molestiae dolore eaque animi repudiandae consectetur illo, iste ullam incidunt perspiciatis nemo, reiciendis necessitatibus dignissimos autem pariatur reprehenderit ipsum nam quidem modi. Excepturi, voluptatum eveniet consequatur dignissimos cumque tempora doloribus aliquam similique commodi voluptates, modi quasi. Totam esse corrupti sunt architecto veniam neque amet illo saepe tempora dolorem nihil cumque consequatur ab repudiandae quae mollitia voluptates, officiis ipsum? Unde pariatur sit explicabo at sapiente aut assumenda tempora vero eum vitae. Necessitatibus nobis vero cupiditate facere amet corrupti, tempora accusantium excepturi reiciendis architecto sint ducimus aperiam sit temporibus iusto odio tenetur aliquam?[39m",
+        [34mpublished_at[39m: [36mnull[39m,
+        [34mcreated_at[39m: "[32m2023-03-10 14:27:57[39m",
+        [34mupdated_at[39m: "[32m2023-03-10 14:27:57[39m",
+      },
+      [34;4mApp\Models\Post[39;24m {#4681
+        [34mid[39m: [35m2[39m,
+        [34mtitle[39m: "[32mJudul Kedua[39m",
+        [34mexcerpt[39m: "[32mLorem ipsum dolor sit amet consectetur adipisicing elit. Minima, vitae assumenda veritatis nemo, corporis sequi culpa unde illo eos deleniti dolore, debitis incidunt tenetur.[39m",
+        [34mbody[39m: "[32mLorem ipsum dolor sit amet consectetur adipisicing elit. Minima, vitae assumenda veritatis nemo, corporis sequi culpa unde illo eos deleniti dolore, debitis incidunt tenetur. Possimus animi praesentium, rem neque, nihil optio in laboriosam, atque fugit ab dolores vel porro! Eaque aperiam soluta, ut quibusdam suscipit enim aliquid doloribus atque vero fugiat voluptatem commodi quasi id minima earum mollitia nam dolore unde est aut architecto sit. Ut porro odio iure voluptates similique, expedita deleniti illo natus sed unde aspernatur modi! Iusto dolores animi beatae dolor consequuntur sapiente in eum consequatur similique! Minus, voluptatum. Eos expedita a distinctio delectus excepturi adipisci saepe architecto enim iusto tempore, in, deleniti exercitationem amet laborum! Vel autem harum numquam temporibus dolores cupiditate, in molestiae incidunt placeat. [39m",
+        [34mpublished_at[39m: [36mnull[39m,
+        [34mcreated_at[39m: "[32m2023-03-10 14:30:41[39m",
+        [34mupdated_at[39m: "[32m2023-03-10 14:30:41[39m",
+      },
+    ],
+  }
+
